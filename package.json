@@ -34,7 +34,7 @@
     "jest": "^23.6.0",
     "jsdom": "^13.0.0",
     "mocha": "^5.2.0",
-    "react-hot-loader": "^4.3.11",
+    "react-hot-loader": "^4.7.1",
     "react-test-renderer": "^16.6.0",
     "sinon": "^7.1.0",
     "start-server-and-test": "^1.7.5",
